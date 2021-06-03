@@ -17,14 +17,14 @@
   "devDependencies": {
     "autoprefixer": "^9.5.1",
     "copyfiles": "^2.1.0",
-    "css-loader": "^2.1.1",
+    "css-loader": "^5.2.6",
     "dts-css-modules-loader": "^1.0.1",
     "mini-css-extract-plugin": "^0.6.0",
     "postcss-loader": "^3.0.0",
     "rimraf": "^2.6.3",
-    "style-loader": "^0.23.1",
-    "ts-loader": "^5.4.4",
-    "webpack": "4.39.3",
+    "style-loader": "^2.0.0",
+    "ts-loader": "^9.2.2",
+    "webpack": "^5.38.1",
     "webpack-cli": "^3.3.1"
   },
   "postcss": {

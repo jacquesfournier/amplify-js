@@ -43,7 +43,7 @@
   "dependencies": {
     "@aws-amplify/cache": "4.0.3",
     "@aws-amplify/core": "4.0.3",
-    "amazon-cognito-identity-js": "5.0.2",
+    "amazon-cognito-identity-js": "^5.0.2",
     "crypto-js": "^4.0.0"
   },
   "devDependencies": {

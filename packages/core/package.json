@@ -62,7 +62,7 @@
 		"@aws-sdk/client-cloudwatch-logs": "3.6.1",
 		"@aws-sdk/util-hex-encoding": "3.6.1",
 		"universal-cookie": "^4.0.4",
-		"zen-observable-ts": "0.8.19"
+		"zen-observable-ts": "^1.0.0"
 	},
 	"jest": {
 		"globals": {

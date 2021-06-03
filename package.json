@@ -87,9 +87,9 @@
 		"typescript": "~3.6.4",
 		"uglifyjs-webpack-plugin": "^0.4.6",
 		"uuid-validate": "^0.0.3",
-		"webpack": "^4.32.0",
-		"webpack-bundle-analyzer": "^3.3.2",
-		"webpack-cli": "^3.1.0",
+		"webpack": "^5.38.1",
+		"webpack-bundle-analyzer": "^4.4.2",
+		"webpack-cli": "^4.7.0",
 		"winston": "^3.2.1"
 	},
 	"resolutions": {
